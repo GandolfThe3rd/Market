@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777661878391",
+    "project_id": "marketdata-77f9f",
+    "storage_bucket": "marketdata-77f9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777661878391:android:0af3dc03c96caaaeaa3672",
+        "android_client_info": {
+          "package_name": "com.ethan.market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hnu0Eufv3KGY9nZDIkDwo4uuk7PCxrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
